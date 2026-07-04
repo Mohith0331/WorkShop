@@ -1,0 +1,15 @@
+langchain-community
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+openai
+sentence-transformers
+rank-bm25
+pymupdf
+pydantic
+langchain-classic
+langchain-cohere
+langchain-google-genai
+pypdf
